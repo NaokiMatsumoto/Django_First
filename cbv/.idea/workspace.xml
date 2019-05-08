@@ -2,14 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="403c59f8-c2dd-49b7-96ba-d89ae4ca14df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_app/templates/basic_app/school_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_app/templates/basic_app/school_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_app/templates/basic_app/school_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_app/templates/basic_app/school_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/accounts/templates/accounts/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/accounts/templates/accounts/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/groups/templates/groups/group_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/groups/templates/groups/group_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/groups/templates/groups/group_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/groups/templates/groups/group_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/groups/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/templates/posts/_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/templates/posts/post_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/templates/posts/post_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/templates/posts/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/templates/posts/post_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/templates/posts/post_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/templates/posts/user_post_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/posts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/static/css/master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../social_clone/templates/thanks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_app/templates/basic_app/school_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic_app/templates/basic_app/school_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbv/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cbv/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbv/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cbv/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../function_base_view(login_user_register)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../function_base_view(login_user_register)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0002_auto_20190505_1835.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/migrations/0003_auto_20190505_1932.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/static/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/blog/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/comment_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/blog/comment_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_confirm_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_draft_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_draft_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/blog/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,32 +69,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="16" />
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_app/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic_app/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/school_detail.html">
+        <entry file="file://$PROJECT_DIR$/cbv/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="338">
+              <caret line="108" column="19" selection-start-line="108" selection-start-column="19" selection-end-line="108" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/school_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="10" column="12" lean-forward="true" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -52,23 +116,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#115#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/school_confirm.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_app/tests.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -81,25 +141,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cbv/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-              <folding>
-                <element signature="e#627#659#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" selection-end-line="13" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -123,33 +168,39 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ALLWED</find>
+      <find>ja</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cbv/settings.py" />
         <option value="$PROJECT_DIR$/basic_app/admin.py" />
         <option value="$PROJECT_DIR$/basic_app/templates/basic_app/base.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/basic_app/templates/basic_app/basic_app_base.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/cbv/urls.py" />
-        <option value="$PROJECT_DIR$/basic_app/templates/basic_app/school_list.html" />
         <option value="$PROJECT_DIR$/basic_app/templates/basic_app/school_form.html" />
         <option value="$PROJECT_DIR$/basic_app/templates/basic_app/school_detail.html" />
-        <option value="$PROJECT_DIR$/basic_app/urls.py" />
         <option value="$PROJECT_DIR$/basic_app/templates/basic_app/school_confirm_delete.html" />
-        <option value="$PROJECT_DIR$/basic_app/views.py" />
         <option value="$PROJECT_DIR$/basic_app/models.py" />
+        <option value="$PROJECT_DIR$/basic_app/urls.py" />
+        <option value="$PROJECT_DIR$/cbv/urls.py" />
+        <option value="$PROJECT_DIR$/cbv/settings.py" />
+        <option value="$PROJECT_DIR$/basic_app/views.py" />
+        <option value="$PROJECT_DIR$/basic_app/templates/basic_app/school_list.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="681" />
+    <option name="x" value="318" />
     <option name="y" value="12" />
-    <option name="width" value="1158" />
+    <option name="width" value="1521" />
     <option name="height" value="1152" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -159,7 +210,45 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cbv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cbv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cbv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cbv" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cbv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cbv" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cbv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cbv" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cbv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cbv" type="462c0819:PsiDirectoryNode" />
+              <item name="cbv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cbv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cbv" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,9 +287,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="454" y="8" width="772" height="768" extended-state="0" />
+    <frame x="212" y="8" width="1014" height="768" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3166227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
@@ -222,23 +312,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cbv/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_app/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/basic_app_base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -256,47 +329,10 @@
     <entry file="file://$PROJECT_DIR$/basic_app/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_app/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="16" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/school_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/school_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#115#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -306,29 +342,12 @@
     <entry file="file://$PROJECT_DIR$/basic_app/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/school_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cbv/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="576">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="e#627#659#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -337,6 +356,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/school_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_app/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cbv/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="108" column="19" selection-start-line="108" selection-start-column="19" selection-end-line="108" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_app/templates/basic_app/school_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="12" lean-forward="true" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
